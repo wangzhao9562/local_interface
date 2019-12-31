@@ -1,3 +1,13 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  SShipParam.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of SShipParam, model of ship parameters according to the properties of ship.
+  *****************************************************************************
+**/
 #pragma once
 
 /* TODO: Store and offer parameters of one ship and vehicle

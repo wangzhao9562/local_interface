@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  SubmitFBMessageApi.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of SubmitFBMessageApi, used to receive control status message from cloud server
+  *****************************************************************************
+**/
+
 #pragma once
 #include <local_interface/HttpHelper.h>
 #include <local_interface/SShipParam.h>

@@ -1,3 +1,13 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  HttpHelper.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of HttpHelper, offers the interfaces of base http methods.
+  *****************************************************************************
+**/
 #pragma once
 #include <local_interface/curl/curl.h>
 #include <string>

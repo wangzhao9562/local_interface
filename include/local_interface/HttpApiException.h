@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  HttpApiException.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of HttpApiException, a set of exceptions of local interface http api classes
+  *****************************************************************************
+**/
+
 #pragma once
 #include <exception>
 #include <string>

@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  NetManagerROS.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of NetManagerROS, ros wrapper class of NetManager.
+  *****************************************************************************
+**/
+
 #include <ros/ros.h>
 #include <local_interface/InstanceId.h>
 #include <std_msgs/String.h>

@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  NetManager.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of NetManager, which invokes interface of http api classes.
+  *****************************************************************************
+**/
+
 #include <local_interface/CreateInstanceApi.h>
 #include <local_interface/FinishInstanceApi.h>
 #include <local_interface/SubmitFBMessageApi.h>

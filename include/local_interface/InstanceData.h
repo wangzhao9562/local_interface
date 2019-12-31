@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  InstanceData.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/8/1
+  * - Brief:     Definition of InstanceData, model of created instance in cloud server.
+  *****************************************************************************
+**/
+
 #pragma once
 #include <string>
 #include <local_interface/JsonTool.h>

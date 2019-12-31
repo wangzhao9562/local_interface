@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  SubmitParamApi.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of SubmitParamApi.
+  *****************************************************************************
+**/
+
 #include <local_interface/SubmitParamApi.h>
 #include <local_interface/CreateInstanceApi.h>
 

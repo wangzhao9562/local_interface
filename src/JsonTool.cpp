@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  JsonTool.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of json encode and decode interfaces.
+  *****************************************************************************
+**/
+
 #include <local_interface/JsonTool.h>
 
 /* Json Tool Function and Interface */

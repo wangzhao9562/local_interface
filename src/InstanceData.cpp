@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  InstanceData.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of InstanceData.
+  *****************************************************************************
+**/
+
 #include <local_interface/InstanceData.h>
 
 InstanceData::InstanceData(std::string name, std::string desp, int amount, std::string shape, long time) : name_(name), 

@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  SubmitFBMessageApi.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/12/25
+  * - Brief:     Implementation of SubmitFBMessageApi.
+  *****************************************************************************
+**/
+
 #include <ros/ros.h>
 #include <local_interface/SubmitFBMessageApi.h>
 #include <local_interface/InstanceId.h>

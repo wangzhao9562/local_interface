@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  SubmitFBMessageApi.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Definition of SubmitFBMessageApi
+  *****************************************************************************
+**/
+
 #include <local_interface/SubmitFBMessageApi.h>
 
 bool SubmitFBMessageApi::Request(HttpRequestParameter& http_param) {

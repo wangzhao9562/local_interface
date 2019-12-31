@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  CreateInstanceNode.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/12/25
+  * - Brief:     ROS node to test CreateInstanceApi.
+  *****************************************************************************
+**/
+
 #include <ros/ros.h>
 #include <local_interface/CreateInstanceApi.h>
 #include <local_interface/InstanceId.h>

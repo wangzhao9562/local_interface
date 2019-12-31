@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  FinishMsgPub.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Node to publish message to finish ordered instance.
+  *****************************************************************************
+**/
+
 #include <local_interface/FinishMsg.h>
 #include <ros/ros.h>
 

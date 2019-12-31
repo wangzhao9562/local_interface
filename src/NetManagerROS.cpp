@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  NetManagerROS.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of NetManagerROS
+  *****************************************************************************
+**/
+
 #include <local_interface/NetManagerROS.h>
 #include <algorithm>
 

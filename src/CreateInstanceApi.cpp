@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  CreateInstanceApi.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of CreateInstanceApi.
+  *****************************************************************************
+**/
+
 #include <local_interface/CreateInstanceApi.h>
 
 int CreateInstanceApi::r_ins_id_ = 0;

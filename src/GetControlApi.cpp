@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  GetControlApi.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of GetControlApi.
+  *****************************************************************************
+**/
+
 #include <local_interface/GetControlApi.h>
 
 std::string GetControlApi::get_command_ = "";

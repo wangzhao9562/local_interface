@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  NetManager.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of NetManager.
+  *****************************************************************************
+**/
+
 #include <local_interface/NetManager.h>
 
 void NetManager::NetCreateNewInstance(InstanceData ins){

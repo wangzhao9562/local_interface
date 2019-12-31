@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  FinishInstanceApi.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Implementation of FinishInstanceApi.
+  *****************************************************************************
+**/
+
 #include <local_interface/FinishInstanceApi.h>
 
 bool FinishInstanceApi::ins_status_ = true;

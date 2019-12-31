@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  GetControlNode.h
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     ROS node to test GetControlApi
+  *****************************************************************************
+**/
+
 #include <ros/ros.h>
 #include <local_interface/GetControlApi.h>
 #include <local_interface/InstanceId.h>

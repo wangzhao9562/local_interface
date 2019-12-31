@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  HttpHelper.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Definition of HttpHelper
+  *****************************************************************************
+**/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <local_interface/HttpHelper.h>
 #include <exception>

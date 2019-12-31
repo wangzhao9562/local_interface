@@ -1,3 +1,14 @@
+/**
+  *****************************************************************************
+  * Copyright(c) HUST ARMS 302 All rights reserved. 
+  * - Filename:  SubmitParamNode.cpp
+  * - Author:    Zhao Wang
+  * - Version:   1.0.0
+  * - Date:      2019/9/1
+  * - Brief:     Node to test SubmitParamApi.
+  *****************************************************************************
+**/
+
 #include <ros/ros.h>
 #include <local_interface/SubmitParamApi.h>
 #include <local_interface/InstanceId.h>
